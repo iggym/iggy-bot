@@ -1,0 +1,6 @@
+{
+  "name": "iggy-bot-tests",
+  "private": true,
+  "scripts": { "test": "node smoke.js" },
+  "devDependencies": { "jsdom": "^24.1.0" }
+}
